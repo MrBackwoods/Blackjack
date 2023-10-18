@@ -1,0 +1,1 @@
+This is a simple little Windows console C++ blackjack game for one player.
